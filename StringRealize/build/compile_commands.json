@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/linfanty/code/StringRealize/build",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/Demo.dir/main.cpp.o -c /home/linfanty/code/StringRealize/main.cpp",
+  "file": "/home/linfanty/code/StringRealize/main.cpp"
+},
+{
+  "directory": "/home/linfanty/code/StringRealize/build",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/Demo.dir/StringRealize.cpp.o -c /home/linfanty/code/StringRealize/StringRealize.cpp",
+  "file": "/home/linfanty/code/StringRealize/StringRealize.cpp"
+}
+]

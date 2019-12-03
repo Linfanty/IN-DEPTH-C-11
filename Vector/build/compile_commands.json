@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/linfanty/code/Vector/build",
+  "command": "/usr/bin/g++-5     -g   -o CMakeFiles/Demo.dir/main.cpp.o -c /home/linfanty/code/Vector/main.cpp",
+  "file": "/home/linfanty/code/Vector/main.cpp"
+}
+]

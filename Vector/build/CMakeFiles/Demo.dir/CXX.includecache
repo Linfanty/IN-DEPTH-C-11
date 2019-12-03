@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linfanty/code/Vector/main.cpp
+iostream
+-
+vector.h
+/home/linfanty/code/Vector/vector.h
+
+/home/linfanty/code/Vector/vector.h
+

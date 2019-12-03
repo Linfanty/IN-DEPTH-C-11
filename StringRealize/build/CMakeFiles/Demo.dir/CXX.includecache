@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linfanty/code/StringRealize/StringRealize.cpp
+StringRealize.h
+/home/linfanty/code/StringRealize/StringRealize.h
+string.h
+-
+stdio.h
+-
+
+/home/linfanty/code/StringRealize/StringRealize.h
+iostream
+-
+
+/home/linfanty/code/StringRealize/main.cpp
+iostream
+-
+StringRealize.h
+/home/linfanty/code/StringRealize/StringRealize.h
+

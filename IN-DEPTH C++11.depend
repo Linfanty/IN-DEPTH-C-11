@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573666338 source:/home/linfanty/code/IN-DEPTH C++11/131function_traits.cpp
+	<iostream>
+	<functional>
+
+1574237017 source:/home/linfanty/code/IN-DEPTH C++11/156shared_ptr.cpp
+	<iostream>
+	<functional>
+	<memory>
+
+1573923697 source:/home/linfanty/code/IN-DEPTH C++11/182promise.cpp
+	<iostream>
+	<functional>
+	<memory>
+	<future>
+	<thread>
+
+1574014711 source:/home/linfanty/code/IN-DEPTH C++11/192timer.cpp
+	<chrono>
+	<iostream>
+

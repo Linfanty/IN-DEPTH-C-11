@@ -1,0 +1,1 @@
+/usr/bin/g++-5   -g   CMakeFiles/Demo.dir/main.cpp.o CMakeFiles/Demo.dir/StringRealize.cpp.o  -o Demo -rdynamic 
